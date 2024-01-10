@@ -22,7 +22,7 @@ jobs:
     - name: Store html build result
       uses: actions/upload-artifact@v3
       with:
-          name: ra2-html
+          name: ri2-html
           path: |
             doc/ref_impl/cntt-ri2/build
   
