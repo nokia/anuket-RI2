@@ -2,7 +2,7 @@
 Reference Implementation based on RA2 specifications (RI2)
 ==========================================================
 
-Test1
+Test2
 
 This is the Reference Implementation (RI2) for the Kubernetes-based Reference Architecture, RA2.
 
