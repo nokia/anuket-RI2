@@ -1,11 +1,11 @@
 # Anuket Reference Implementation based on RA2 specifications (RI2)
 
 This repo contains the source for the
-[Reference Implementation based on RA2 specifications (RI2)](https://cntt.readthedocs.io/projects/ri2/en/stable-orinoco/index.html).
+[Reference Implementation based on RA2 specifications (RI2)](https://cntt.readthedocs.io/projects/ri2/en/latest/index.html).
 
 ## Issues
 
-Issues for this repo handled in the
+Issues for this repo are handled in the
 [anuket-project/anuket-specifications](https://github.com/anuket-project/anuket-specifications/issues) repository. 
 
 # Pull Requests
